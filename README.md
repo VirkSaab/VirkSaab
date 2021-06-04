@@ -1,9 +1,6 @@
 ### 👋
 
-- 🌱 I’m currently learning machine learning, deep learning, and computer vision.
-- 📫 How to reach me: [my GitHub page](https://virksaab.github.io/) > Social Profiles (Navbar's top right corner dropdown)
-
-### Visit my [GitHub page](https://virksaab.github.io/) for more details.
+👉 [Portfolio](https://virksaab.github.io)
 
 <!--
 **VirkSaab/VirkSaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
